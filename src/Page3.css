@@ -1,0 +1,43 @@
+#Page3{
+    height: 60vh;
+    width: 100vw;
+    background-color: aliceblue;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
+
+#list , #showlist{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#screen{
+    height: 60%;
+    width: 80%;
+    background-color: honeydew;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#but{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: greenyellow;
+    border:none;
+    font-size:large;
+}
+#but:hover{
+    background-color: crimson;
+    margin:1.1rem;
+    padding: 1.2rem;
+}
+
+#l1, #l2, #l3{
+    display:inline-block;
+
+
+}

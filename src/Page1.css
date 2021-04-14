@@ -1,0 +1,43 @@
+*{
+    margin:0;
+padding:0;
+box-sizing: border-box;
+}
+
+#Page1{
+    position: relative;
+    text-align: center;
+    color: crimson;
+}
+
+#radio{
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.4;
+}
+
+#text1{
+    margin:1rem;
+    padding: 1rem;
+    position: absolute;
+    top: 40vh;
+    left: 5vw;
+    background-color: black;
+    box-shadow: 1rem 1rem 1rem black;
+    font-family:Helvetica;
+    border-radius: 1rem;
+
+}
+#text1:hover{
+    margin:1.1rem;
+    padding: 1.1rem;
+    position: absolute;
+    top: 41vh;
+    left: 4vw;
+    background-color: black;
+    box-shadow: 1rem 1rem 1rem black;
+    font-family:Helvetica;
+    border-radius: 1rem;
+    color:greenyellow;
+}
+

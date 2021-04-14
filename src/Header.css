@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Header{
+    height: 5vh;
+    width: 100vw;
+    background: linear-gradient(to top left,greenyellow,white);
+}
+ul,li{
+    display: inline;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    margin-left:2rem;
+    margin-right: 2rem;
+}
+li:hover{
+    font-size:1.9rem;
+    color:greenyellow;
+}
+
+#right{
+    float: right;
+    margin-right: 2rem;
+}

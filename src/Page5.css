@@ -1,0 +1,13 @@
+#Page5{
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(to top left,grey, silver);
+    padding: 1.5rem;
+}
+
+h2:hover{
+    color:greenyellow;
+}
